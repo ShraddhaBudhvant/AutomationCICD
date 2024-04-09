@@ -1,0 +1,9 @@
+SeleniumFramework\TestComponent\BaseTest.class
+framework\data\DataReader.class
+framework\data\DataReader$1.class
+SeleniumFramework\TestComponent\Retry.class
+SeleniumFramework\test\SubmitOrderTest.class
+SeleniumFramework\TestComponent\Listeners.class
+SeleniumFramework\TestComponent\BaseTest$1.class
+SeleniumFramework\test\ErrorValidationTest.class
+SeleniumFramework\test\StandAlone.class

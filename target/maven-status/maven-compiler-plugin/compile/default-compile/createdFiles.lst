@@ -1,0 +1,8 @@
+SeleniumFramework\resorces\ExtentReporterNg.class
+SeleniumFramework\AbstractComponent\AbstractComponents.class
+SeleniumFramework\PageObjectModel\OrdersPage.class
+SeleniumFramework\PageObjectModel\CartPage.class
+SeleniumFramework\PageObjectModel\ConfirmationPage.class
+SeleniumFramework\PageObjectModel\ProductCatalogue.class
+SeleniumFramework\PageObjectModel\CheckOutPage.class
+SeleniumFramework\PageObjectModel\LandingPage.class
